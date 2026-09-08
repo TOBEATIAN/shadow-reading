@@ -14,12 +14,11 @@
 ```
 影子跟读/
 ├── README.md               ← 本说明
-├── 2026-09-08/             ← 材料按生成日期归档（md/mp3/docx，本地留存）
+├── 2026-09-08/             ← 材料按生成日期归档（md/mp3，本地留存）
 ├── publish.ps1 / 发布网站.bat  ← 一键构建并发布
 ├── scripts/
-│   ├── build_site.py       ← md → 网页数据 + 分段音频
-│   ├── build_print_docx.py ← md → A4 docx 打印版
-│   └── print-reference.docx
+│   ├── build_site.py       ← md → 网页数据 + 分段音频（默认）
+│   └── build_print_docx.py ← md → Word 打印版（按需，默认停用）
 ├── web/                    ← GitHub Pages 发布目录
 │   ├── index.html / read.html / app.css / app.js
 │   ├── materials.json      ← 网站数据（由构建脚本生成）
@@ -30,5 +29,5 @@
 ## 技术说明
 
 - 纯静态站点：HTML + CSS + JavaScript，无框架、无后端；
-- 数据单一来源为各篇 md，网页与打印版都由脚本生成，不手工维护第二份内容；
+- 数据单一来源为各篇 md，网页数据与音频由脚本生成，不手工维护第二份内容；
 - 托管：GitHub Pages（GitHub Actions 发布 `web/` 目录），公开仓库 [TOBEATIAN/shadow-reading](https://github.com/TOBEATIAN/shadow-reading)。
