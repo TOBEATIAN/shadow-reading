@@ -1,0 +1,243 @@
+{
+  "materials": [
+    {
+      "id": "2026-09-08",
+      "num": "001",
+      "date": "2026-09-08",
+      "titleEn": "Stop Re-reading, Start Testing Yourself",
+      "titleCn": "别再只重读，试试自测",
+      "stem": "2026-09-08_影子跟读001_自测比重读更有效",
+      "wordCountLabel": "280 词",
+      "durationLabel": "1 分 49 秒",
+      "difficulty": "六级中上",
+      "paragraphs": [
+        "Most students have a habit that feels <strong>productive</strong> but really isn't: they re-read their notes until everything looks <strong>familiar</strong>. I used to do exactly the same. Before an exam, I would <strong>highlight</strong> every second line, open my textbook again and again, and quietly <strong>assume</strong> that <strong>repetition</strong> <strong>equaled</strong> memory. Then I would walk into the exam room and forget half of it.",
+        "Why does this happen? Because <strong>recognizing</strong> something is not the same as <strong>recalling</strong> it. When you re-read, the words are right in front of you, so your brain takes the easy path. It mistakes a moment of <strong>familiarity</strong> for real understanding. The moment the page disappears, the memory seems to disappear too.",
+        "The most <strong>effective</strong> method is the opposite of comfortable. Close the book, look away, and try to recall the main points out loud or on a blank page. You will probably <strong>struggle</strong>, make mistakes, and feel <strong>frustrated</strong>. That is not failure; it is the core of learning. Every time you <strong>retrieve</strong> an idea from memory, especially when it costs real <strong>effort</strong>, the memory <strong>trace</strong> becomes stronger. Forgetting, in this sense, is not your <strong>enemy</strong>. It is the <strong>signal</strong> that your brain is ready to <strong>rebuild</strong> the knowledge more deeply.",
+        "Experts call this <strong>retrieval</strong> practice, and decades of <strong>evidence</strong> support it. So here is a simple <strong>strategy</strong>: turn every study <strong>session</strong> into a small self-test. Read one section, close the notes, then ask yourself questions about it. Check your answers, and review your mistakes the next day rather than immediately. You will feel less comfortable in the short term, but you will remember far more in the long run. And that is what real learning is about."
+      ],
+      "vocabNote": "练习前先不看释义，数一数标粗的单词里你真正认识几个（共 22 个）：\n- 认识 18～22 个：难度偏易，下次可以要求\"再难一档\"；\n- 认识 12～17 个：正合适（约 85%～90%）；\n- 认识少于 12 个：偏难，告诉我，我把下一篇降一档。",
+      "vocabRows": [
+        [
+          "productive",
+          "形容词",
+          "高效的、多产的"
+        ],
+        [
+          "familiar",
+          "形容词",
+          "熟悉的、眼熟的"
+        ],
+        [
+          "highlight",
+          "动词",
+          "标亮、突出显示"
+        ],
+        [
+          "assume",
+          "动词",
+          "想当然地认为"
+        ],
+        [
+          "repetition",
+          "名词",
+          "重复"
+        ],
+        [
+          "equal",
+          "动词",
+          "等于、比得上"
+        ],
+        [
+          "recognize",
+          "动词",
+          "认得、辨认出"
+        ],
+        [
+          "recall",
+          "动词",
+          "回忆、想得起"
+        ],
+        [
+          "familiarity",
+          "名词",
+          "熟悉感"
+        ],
+        [
+          "effective",
+          "形容词",
+          "有效的"
+        ],
+        [
+          "struggle",
+          "动词/名词",
+          "吃力、挣扎、艰难应对"
+        ],
+        [
+          "frustrated",
+          "形容词",
+          "沮丧的、挫败的"
+        ],
+        [
+          "retrieve",
+          "动词",
+          "取回、提取（信息）"
+        ],
+        [
+          "effort",
+          "名词",
+          "努力、费力"
+        ],
+        [
+          "trace",
+          "名词",
+          "痕迹、踪迹"
+        ],
+        [
+          "enemy",
+          "名词",
+          "敌人（文中是比喻用法）"
+        ],
+        [
+          "signal",
+          "名词",
+          "信号"
+        ],
+        [
+          "rebuild",
+          "动词",
+          "重建、重新构建"
+        ],
+        [
+          "retrieval",
+          "名词",
+          "提取、检索"
+        ],
+        [
+          "evidence",
+          "名词",
+          "证据"
+        ],
+        [
+          "strategy",
+          "名词",
+          "策略、方法"
+        ],
+        [
+          "session",
+          "名词",
+          "（一次活动的）一段时间"
+        ]
+      ],
+      "phraseRows": [
+        [
+          "have a habit that feels productive",
+          "有个看似高效的习惯",
+          "Most students have a habit that feels productive..."
+        ],
+        [
+          "read / open ... again and again",
+          "一遍又一遍地读/翻",
+          "I would ... open my textbook again and again"
+        ],
+        [
+          "assume that repetition equaled memory",
+          "想当然地以为重复就等于记住",
+          "...quietly assume that repetition equaled memory"
+        ],
+        [
+          "recognizing ≠ recalling",
+          "认得 ≠ 想得起（辨析：recognize 是\"见过认得出\"，recall 是\"主动回忆出来\"）",
+          "Because recognizing something is not the same as recalling it."
+        ],
+        [
+          "take the easy path",
+          "走省力的路、图省事",
+          "...your brain takes the easy path."
+        ],
+        [
+          "mistake A for B",
+          "把 A 误当成 B",
+          "It mistakes a moment of familiarity for real understanding."
+        ],
+        [
+          "the moment ...",
+          "一……就……；……的那一刻",
+          "The moment the page disappears, the memory seems to disappear too."
+        ],
+        [
+          "the opposite of comfortable",
+          "与舒服相反；一点也不舒服",
+          "The most effective method is the opposite of comfortable."
+        ],
+        [
+          "the core of learning",
+          "学习的核心",
+          "...it is the core of learning."
+        ],
+        [
+          "cost real effort",
+          "需要真正付出努力",
+          "...especially when it costs real effort..."
+        ],
+        [
+          "memory trace",
+          "记忆痕迹",
+          "...the memory trace becomes stronger."
+        ],
+        [
+          "in this sense",
+          "从这个意义上说",
+          "Forgetting, in this sense, is not your enemy."
+        ],
+        [
+          "retrieval practice",
+          "提取练习（主动回忆式复习）",
+          "Experts call this retrieval practice..."
+        ],
+        [
+          "decades of evidence support it",
+          "几十年的证据都支持它",
+          "...decades of evidence support it."
+        ],
+        [
+          "turn A into B",
+          "把 A 变成 B",
+          "...turn every study session into a small self-test."
+        ],
+        [
+          "rather than immediately",
+          "而不是马上",
+          "...review your mistakes the next day rather than immediately."
+        ],
+        [
+          "in the short term / in the long run",
+          "短期来看 / 长期来看",
+          "You will feel less comfortable in the short term, but you will remember far more in the long run."
+        ]
+      ],
+      "translation": [
+        "大多数学生都有一个看似高效、其实不然的习惯：反复重读笔记，直到所有内容看起来都眼熟为止。我以前也完全一样。考试之前，我会把隔一行就画上高亮，一遍又一遍地翻开课本，心里想当然地认为\"重复就等于记住\"。结果一走进考场，一半内容全忘了。",
+        "为什么会这样？因为\"认得\"和\"想得起\"是两回事。重读的时候，文字就在你眼前，大脑于是走了最省力的路——把\"这一刻的熟悉感\"误当成\"真正的理解\"。那一页从眼前消失的时候，记忆似乎也跟着消失了。",
+        "最有效的方法，恰恰是让人不舒服的那种。合上书，把视线移开，试着把要点大声说出来，或者写在空白纸上。你多半会卡壳、出错、感到沮丧。这不算失败，这正是学习的核心。每一次你从记忆里\"提取\"一个想法——尤其是当它需要真正付出努力时——这条记忆痕迹就会变得更深。从这个意义上说，遗忘不是你的敌人，而是信号：它说明你的大脑已经准备好，要把这份知识重建得更牢固。",
+        "专家把这种做法叫作\"提取练习\"，几十年的研究证据都支持它。所以方法很简单：把每一次学习都变成一次小测验。读完一小节，合上笔记，然后向自己提问。对完答案，把错的地方留到第二天再复习，而不是当天立刻重看。短期内你会觉得不那么舒服，但长期来看，你记住的会多得多。这才是真正意义上的学习。"
+      ],
+      "audioFull": "audio/2026-09-08_影子跟读001_自测比重读更有效_full.mp3",
+      "segments": [
+        {
+          "audio": "audio/2026-09-08_影子跟读001_自测比重读更有效_p1.mp3"
+        },
+        {
+          "audio": "audio/2026-09-08_影子跟读001_自测比重读更有效_p2.mp3"
+        },
+        {
+          "audio": "audio/2026-09-08_影子跟读001_自测比重读更有效_p3.mp3"
+        },
+        {
+          "audio": "audio/2026-09-08_影子跟读001_自测比重读更有效_p4.mp3"
+        }
+      ],
+      "vocabCount": 22
+    }
+  ]
+}

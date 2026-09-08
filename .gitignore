@@ -1,0 +1,7 @@
+/*.md
+/*.docx
+/*.mp3
+/scripts/print-reference.docx
+.DS_Store
+Thumbs.db
+!README-site.md
