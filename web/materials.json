@@ -1,7 +1,241 @@
 {
   "materials": [
     {
-      "id": "2026-09-08",
+      "id": "2026-09-08_002",
+      "num": "002",
+      "date": "2026-09-08",
+      "titleEn": "Walk First, Think Later",
+      "titleCn": "先走一走，再想问题",
+      "stem": "2026-09-08_影子跟读002_先走一走再想问题",
+      "wordCountLabel": "284 词",
+      "durationLabel": "1 分 40 秒",
+      "difficulty": "六级中上",
+      "paragraphs": [
+        "If you ask successful writers and engineers how they solve hard problems, many will give the same <strong>unexpected</strong> answer: they go for a walk. When an idea gets <strong>stuck</strong>, they do not stare at the screen even longer. Instead, they stand up, leave the room, and <strong>wander</strong> around the <strong>neighborhood</strong>. Somewhere along the way, the problem that felt <strong>impossible</strong> begins to <strong>loosen</strong>, and the missing piece often appears on its own.",
+        "This is not just a pleasant habit; there is real science behind it. While you walk, your heart rate rises slightly, and more blood flows to your brain. At the same time, your mind is freed from the <strong>pressure</strong> of sitting still and waiting for <strong>inspiration</strong>. Your thoughts are allowed to <strong>drift</strong>, to <strong>bump</strong> into each other, and to form <strong>connections</strong> that you would never notice at a desk.",
+        "Of course, walking alone will not hand you a finished essay or a <strong>brilliant</strong> design. It is not magic; it is <strong>momentum</strong>. The real value is that you come back with a clearer head and a lighter <strong>mood</strong>, ready to sit down again. Many people <strong>assume</strong> that thinking hard means staying in one place, but the <strong>opposite</strong> is often true: <strong>motion</strong> helps thought.",
+        "So the next time you feel stuck, try a small <strong>experiment</strong>. Leave your phone at home or in your pocket, step outside, and walk for twenty minutes without any purpose. Do not force yourself to think about the problem. Just <strong>observe</strong> the street, the sky, and your own <strong>breathing</strong>. When you come back, sit down and write the first sentence <strong>immediately</strong>. You might be <strong>surprised</strong> to find that the answer was waiting for you all along — just a few steps away."
+      ],
+      "vocabNote": "练习前先不看释义，数一数标粗的单词里你真正认识几个（共 22 个）：\n- 认识 18～22 个：难度偏易，下次可以要求\"再难一档\"；\n- 认识 12～17 个：正合适（约 85%～90%）；\n- 认识少于 12 个：偏难，告诉我，我把下一篇降一档。",
+      "vocabRows": [
+        [
+          "unexpected",
+          "形容词",
+          "意想不到的、出人意料的"
+        ],
+        [
+          "stuck",
+          "形容词",
+          "卡住的、被难住的"
+        ],
+        [
+          "wander",
+          "动词",
+          "漫步、闲逛"
+        ],
+        [
+          "neighborhood",
+          "名词",
+          "街区、附近一带"
+        ],
+        [
+          "impossible",
+          "形容词",
+          "不可能的"
+        ],
+        [
+          "loosen",
+          "动词",
+          "松开、变松动"
+        ],
+        [
+          "pressure",
+          "名词",
+          "压力"
+        ],
+        [
+          "inspiration",
+          "名词",
+          "灵感"
+        ],
+        [
+          "drift",
+          "动词",
+          "飘移、漫无目的地流动"
+        ],
+        [
+          "bump",
+          "动词",
+          "撞上、碰到"
+        ],
+        [
+          "connection",
+          "名词",
+          "联系、关联"
+        ],
+        [
+          "brilliant",
+          "形容词",
+          "出色的、绝妙的"
+        ],
+        [
+          "momentum",
+          "名词",
+          "势头、动力"
+        ],
+        [
+          "mood",
+          "名词",
+          "心情、情绪"
+        ],
+        [
+          "assume",
+          "动词",
+          "想当然地认为"
+        ],
+        [
+          "opposite",
+          "名词/形容词",
+          "相反（的）"
+        ],
+        [
+          "motion",
+          "名词",
+          "运动、移动"
+        ],
+        [
+          "experiment",
+          "名词",
+          "实验、尝试"
+        ],
+        [
+          "observe",
+          "动词",
+          "观察"
+        ],
+        [
+          "breathing",
+          "名词",
+          "呼吸"
+        ],
+        [
+          "immediately",
+          "副词",
+          "立刻、马上"
+        ],
+        [
+          "surprised",
+          "形容词",
+          "惊讶的"
+        ]
+      ],
+      "phraseRows": [
+        [
+          "get stuck / feel stuck",
+          "卡住、被难住",
+          "When an idea gets stuck..."
+        ],
+        [
+          "wander around the neighborhood",
+          "在附近闲逛",
+          "...wander around the neighborhood."
+        ],
+        [
+          "along the way",
+          "在这个过程中、半路上",
+          "Somewhere along the way, the problem..."
+        ],
+        [
+          "on its own",
+          "自行、自然地出现",
+          "...the missing piece often appears on its own."
+        ],
+        [
+          "there is real science behind it",
+          "背后有真实的科学依据",
+          "...there is real science behind it."
+        ],
+        [
+          "freed from the pressure of...",
+          "从……的压力中解脱出来",
+          "...freed from the pressure of sitting still..."
+        ],
+        [
+          "thoughts drift / bump into each other",
+          "思绪飘荡、相互碰撞",
+          "Your thoughts are allowed to drift, to bump into each other..."
+        ],
+        [
+          "form connections",
+          "形成联系",
+          "...to form connections that you would never notice at a desk."
+        ],
+        [
+          "hand sb sth",
+          "把……递到某人手上",
+          "...walking alone will not hand you a finished essay..."
+        ],
+        [
+          "It is not magic; it is momentum",
+          "这不是魔法，而是势头",
+          "It is not magic; it is momentum."
+        ],
+        [
+          "a clearer head and a lighter mood",
+          "头脑更清醒、心情更轻松",
+          "...you come back with a clearer head and a lighter mood..."
+        ],
+        [
+          "the opposite is often true",
+          "事实往往相反",
+          "...but the opposite is often true..."
+        ],
+        [
+          "motion helps thought",
+          "动起来有助于思考",
+          "...motion helps thought."
+        ],
+        [
+          "try a small experiment",
+          "做个小实验、小尝试",
+          "...try a small experiment."
+        ],
+        [
+          "without any purpose",
+          "漫无目的",
+          "...walk for twenty minutes without any purpose."
+        ],
+        [
+          "just a few steps away",
+          "就在几步之外、近在咫尺",
+          "...the answer was waiting for you all along — just a few steps away."
+        ]
+      ],
+      "translation": [
+        "如果你去问成功的作家和工程师，他们怎么解决难题，很多人会给出同一个出人意料的答案：去走一走。思路卡住的时候，他们不会盯着屏幕更久，而是站起来、离开房间，在附近随意走走。走到半路的某个时刻，原本觉得不可能解决的问题开始松动，缺的那一块灵感常常自己就冒出来了。",
+        "这不仅仅是个让人愉快的小习惯，背后有真实的科学依据。走路时，心率会微微升高，流向大脑的血液变得更多。与此同时，你的思绪从\"坐着不动、干等灵感\"的压力中解脱出来，被允许随意飘荡、相互碰撞，形成许多坐在书桌前绝不会注意到的联系。",
+        "当然，光靠走路不会直接把一篇成品文章或一个绝妙的设计递到你手上。它不是魔法，而是势头。真正的价值在于：回来时你头脑更清醒、心情更轻松，能重新坐下来。很多人以为\"认真思考\"就是要待在一个地方不动，但事实往往相反——动起来反而有助于思考。",
+        "所以下次卡住的时候，试着做一个小实验：把手机留在家里或放在口袋里，走出门，漫无目的地走二十分钟。不要逼自己去想那个问题，只是看看街道、天空，感受自己的呼吸。回来之后立刻坐下，写下第一句话。你可能会惊讶地发现，答案常常一直在等你——它就在几步之外。"
+      ],
+      "audioFull": "audio/2026-09-08_影子跟读002_先走一走再想问题_full.mp3",
+      "segments": [
+        {
+          "audio": "audio/2026-09-08_影子跟读002_先走一走再想问题_p1.mp3"
+        },
+        {
+          "audio": "audio/2026-09-08_影子跟读002_先走一走再想问题_p2.mp3"
+        },
+        {
+          "audio": "audio/2026-09-08_影子跟读002_先走一走再想问题_p3.mp3"
+        },
+        {
+          "audio": "audio/2026-09-08_影子跟读002_先走一走再想问题_p4.mp3"
+        }
+      ],
+      "vocabCount": 22
+    },
+    {
+      "id": "2026-09-08_001",
       "num": "001",
       "date": "2026-09-08",
       "titleEn": "Stop Re-reading, Start Testing Yourself",

@@ -124,10 +124,12 @@ def parse_md(md: Path) -> dict:
         trans_paras.append(s)
 
     stem = md.stem
+    date_part = stem.split("_")[0] if "_" in stem else ""
+    mat_id = f"{date_part}_{num}" if date_part and num else (date_part or stem)
     return {
-        "id": stem.split("_")[0] if "_" in stem else stem,
+        "id": mat_id,
         "num": num,
-        "date": stem.split("_")[0] if "_" in stem else "",
+        "date": date_part,
         "titleEn": title_en,
         "titleCn": title_cn,
         "stem": stem,
@@ -244,7 +246,7 @@ def main() -> None:
         m["vocabCount"] = len(m["vocabRows"])
         materials.append(m)
 
-    materials.sort(key=lambda x: x["date"], reverse=True)
+    materials.sort(key=lambda x: (x["date"], x["num"]), reverse=True)
     payload = {"materials": materials}
     fd, tmp = tempfile.mkstemp(dir=str(WEB_DIR), suffix=".json", prefix="materials_")
     try:
