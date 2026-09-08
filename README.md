@@ -14,6 +14,7 @@
 ```
 影子跟读/
 ├── README.md               ← 本说明
+├── 2026-09-08/             ← 材料按生成日期归档（md/mp3/docx，本地留存）
 ├── publish.ps1 / 发布网站.bat  ← 一键构建并发布
 ├── scripts/
 │   ├── build_site.py       ← md → 网页数据 + 分段音频

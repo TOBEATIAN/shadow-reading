@@ -12,6 +12,7 @@
 
 import argparse
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -106,7 +107,15 @@ def main() -> None:
     if not REFERENCE.exists():
         sys.exit(f"错误：缺少版式文件 {REFERENCE}")
 
-    mds = [Path(f).resolve() for f in args.files] if args.files else sorted(ROOT_DIR.glob("*.md"))
+    if args.files:
+        mds = [Path(f).resolve() for f in args.files]
+    else:
+        mds = []
+        for sub in sorted(ROOT_DIR.iterdir()):
+            if sub.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", sub.name):
+                mds.extend(sorted(sub.glob("*.md")))
+        mds.extend(sorted(p for p in ROOT_DIR.glob("*.md") if p.name != "README.md"))
+        mds = sorted(mds, key=str)
     if not mds:
         sys.exit("没有找到可转换的 md")
 

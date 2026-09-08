@@ -5,6 +5,8 @@
 用法:
     python build_site.py            # 扫描上级目录(影子跟读/)全部 md 并重建网站数据
 
+材料按生成日期归档在 `影子跟读/YYYY-MM-DD/` 子文件夹中（文件名保留日期前缀），
+本脚本自动扫描全部日期夹，也兼容根目录遗留 md。
 材料源稿与打印版共用同一固定标题契约；缺标题时报错并不覆盖旧 JSON。
 分段音频缺失时自动用 edge-tts 合成；网络失败则该段音频置空，网页自动降级为仅整篇播放。
 """
@@ -160,9 +162,9 @@ def parse_table(lines):
     return rows
 
 
-def ensure_audio(m, source_root: Path) -> None:
+def ensure_audio(m, md: Path) -> None:
     stem = m["stem"]
-    full_src = source_root / f"{stem}.mp3"
+    full_src = md.with_suffix(".mp3")
     full_dst = AUDIO_DIR / f"{stem}_full.mp3"
     m["audioFull"] = None
     if full_src.exists():
@@ -210,11 +212,26 @@ def synth_speech(text: str, dst: Path) -> None:
     asyncio.run(run())
 
 
+def collect_mds():
+    found = []
+    for sub in sorted(ROOT_DIR.iterdir()):
+        if sub.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", sub.name):
+            found.extend(sorted(sub.glob("*.md")))
+    found.extend(sorted(p for p in ROOT_DIR.glob("*.md") if p.name not in ("README.md", "README-site.md")))
+    uniq, seen = [], set()
+    for p in sorted(found, key=str):
+        key = str(p.resolve())
+        if key not in seen:
+            seen.add(key)
+            uniq.append(p)
+    return uniq
+
+
 def main() -> None:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
-    mds = sorted(p for p in ROOT_DIR.glob("*.md") if p.name not in ("README.md", "README-site.md"))
+    mds = collect_mds()
     if not mds:
         sys.exit("没有找到 md 源稿")
 
@@ -222,7 +239,7 @@ def main() -> None:
     for md in mds:
         log(f"解析：{md.name}")
         m = parse_md(md)
-        ensure_audio(m, ROOT_DIR)
+        ensure_audio(m, md)
         m.pop("rawParagraphs", None)
         m["vocabCount"] = len(m["vocabRows"])
         materials.append(m)
