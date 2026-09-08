@@ -214,7 +214,7 @@ def main() -> None:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
-    mds = sorted(p for p in ROOT_DIR.glob("*.md") if p.name != "README-site.md")
+    mds = sorted(p for p in ROOT_DIR.glob("*.md") if p.name not in ("README.md", "README-site.md"))
     if not mds:
         sys.exit("没有找到 md 源稿")
 
