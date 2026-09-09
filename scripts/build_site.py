@@ -207,11 +207,18 @@ def synth_speech(text: str, dst: Path) -> None:
     import asyncio
     import edge_tts
 
-    async def run():
-        com = edge_tts.Communicate(text, VOICE, proxy=PROXY)
+    async def run(proxy):
+        com = edge_tts.Communicate(text, VOICE, proxy=proxy)
         await com.save(str(dst))
 
-    asyncio.run(run())
+    last_error = None
+    for proxy in (PROXY, None):
+        try:
+            asyncio.run(run(proxy))
+            return
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+    raise last_error
 
 
 def collect_mds():

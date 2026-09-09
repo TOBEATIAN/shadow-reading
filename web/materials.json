@@ -1,6 +1,240 @@
 {
   "materials": [
     {
+      "id": "2026-09-09_003",
+      "num": "003",
+      "date": "2026-09-09",
+      "titleEn": "Why We Put Things Off",
+      "titleCn": "我们为什么爱拖延",
+      "stem": "2026-09-09_影子跟读003_我们为什么爱拖延",
+      "wordCountLabel": "299 词",
+      "durationLabel": "1 分 50 秒",
+      "difficulty": "六级中上",
+      "paragraphs": [
+        "Almost everyone has a task they keep <strong>avoiding</strong>, and the reason is rarely <strong>laziness</strong>. When we put something off, we are usually trying to <strong>escape</strong> a bad feeling, not the work itself. The project feels boring, difficult, or confusing, so the brain looks for a quick exit. Checking a message, opening a video, or tidying the desk gives a small burst of <strong>temporary</strong> <strong>relief</strong>. But that relief is only a pause, and the task grows <strong>heavier</strong> in our mind.",
+        "<strong>Psychologists</strong> <strong>describe</strong> this as a <strong>battle</strong> between two parts of the mind. One part cares about the <strong>future</strong> and wants to finish the report. The other part lives in the <strong>present</strong> and wants comfort right now. The second part usually wins because the <strong>reward</strong> is <strong>immediate</strong>, while the <strong>payoff</strong> of finishing feels <strong>distant</strong> and <strong>vague</strong>. This is why a ten-minute <strong>chore</strong> can sit on our list for weeks, and why we suddenly become experts at finding smaller jobs to do instead.",
+        "The good news is that you do not need more <strong>willpower</strong>. You need a smaller first step. Instead of promising to \"finish the essay,\" promise only to open the document and write one bad sentence. The task shrinks from <strong>terrifying</strong> to boring, and boring is easy to start. Many people also find that a short timer helps: work for just ten minutes, then stop if you want. Once you begin, the brain stops treating the job as a <strong>threat</strong>, and continuing feels natural.",
+        "So next time you catch yourself avoiding something, do not blame yourself. Notice the feeling, name it, and take the <strong>tiniest</strong> possible action. Turn the phone face down, close the extra tabs, and start before you feel ready. The goal is not to feel <strong>motivated</strong> first. It is to act first and let motivation follow."
+      ],
+      "vocabNote": "练习前先不看释义，数一数标粗的单词里你真正认识几个（共 22 个）：\n- 认识 18～22 个：难度偏易，下次可以要求\"再难一档\"；\n- 认识 12～17 个：正合适（约 85%～90%）；\n- 认识少于 12 个：偏难，告诉我，我把下一篇降一档。",
+      "vocabRows": [
+        [
+          "avoid",
+          "动词",
+          "避免、躲避"
+        ],
+        [
+          "laziness",
+          "名词",
+          "懒惰"
+        ],
+        [
+          "escape",
+          "动词/名词",
+          "逃避、逃离"
+        ],
+        [
+          "temporary",
+          "形容词",
+          "暂时的"
+        ],
+        [
+          "relief",
+          "名词",
+          "解脱、缓解"
+        ],
+        [
+          "heavier",
+          "形容词",
+          "更沉重的（heavy 的比较级）"
+        ],
+        [
+          "psychologist",
+          "名词",
+          "心理学家"
+        ],
+        [
+          "describe",
+          "动词",
+          "描述、形容"
+        ],
+        [
+          "battle",
+          "名词",
+          "战斗、较量"
+        ],
+        [
+          "future",
+          "名词",
+          "未来"
+        ],
+        [
+          "present",
+          "名词",
+          "现在、当下"
+        ],
+        [
+          "reward",
+          "名词",
+          "奖励、回报"
+        ],
+        [
+          "immediate",
+          "形容词",
+          "立刻的、即时的"
+        ],
+        [
+          "payoff",
+          "名词",
+          "回报、收益"
+        ],
+        [
+          "distant",
+          "形容词",
+          "遥远的"
+        ],
+        [
+          "vague",
+          "形容词",
+          "模糊的、不明确的"
+        ],
+        [
+          "chore",
+          "名词",
+          "琐事、杂务"
+        ],
+        [
+          "willpower",
+          "名词",
+          "意志力"
+        ],
+        [
+          "terrifying",
+          "形容词",
+          "令人恐惧的、吓人的"
+        ],
+        [
+          "threat",
+          "名词",
+          "威胁"
+        ],
+        [
+          "tiniest",
+          "形容词",
+          "极小的（tiny 的最高级）"
+        ],
+        [
+          "motivated",
+          "形容词",
+          "有动力的、有干劲的"
+        ]
+      ],
+      "phraseRows": [
+        [
+          "put something off",
+          "推迟、拖延",
+          "When we put something off..."
+        ],
+        [
+          "escape a bad feeling",
+          "逃避一种不好的感觉",
+          "...trying to escape a bad feeling..."
+        ],
+        [
+          "a small burst of relief",
+          "一阵短暂的放松",
+          "...gives a small burst of temporary relief."
+        ],
+        [
+          "grow heavier",
+          "越来越沉重",
+          "...the task grows heavier in our mind."
+        ],
+        [
+          "a battle between two parts of the mind",
+          "大脑两个部分的较量",
+          "Psychologists describe this as a battle between two parts of the mind."
+        ],
+        [
+          "live in the present",
+          "活在当下",
+          "The other part lives in the present..."
+        ],
+        [
+          "the reward is immediate",
+          "奖励来得即时",
+          "...the reward is immediate..."
+        ],
+        [
+          "the payoff feels distant and vague",
+          "回报显得遥远而模糊",
+          "...the payoff of finishing feels distant and vague."
+        ],
+        [
+          "sit on our list",
+          "一直躺在清单上",
+          "...can sit on our list for weeks..."
+        ],
+        [
+          "become experts at doing something",
+          "变成做某事的\"专家\"（讽刺用法）",
+          "...we suddenly become experts at finding smaller jobs..."
+        ],
+        [
+          "need a smaller first step",
+          "需要更小的第一步",
+          "You need a smaller first step."
+        ],
+        [
+          "shrink from terrifying to boring",
+          "从吓人缩小到无聊",
+          "The task shrinks from terrifying to boring..."
+        ],
+        [
+          "a short timer helps",
+          "短计时器很管用",
+          "...a short timer helps..."
+        ],
+        [
+          "treat the job as a threat",
+          "把任务当成威胁",
+          "...stops treating the job as a threat..."
+        ],
+        [
+          "take the tiniest possible action",
+          "采取最小的可行行动",
+          "...take the tiniest possible action."
+        ],
+        [
+          "act first and let motivation follow",
+          "先行动，让动力随后而来",
+          "It is to act first and let motivation follow."
+        ]
+      ],
+      "translation": [
+        "几乎每个人都有一个一直拖着不做的任务，而原因很少是懒惰。我们拖延的时候，通常是想逃避一种不好的感觉，而不是逃避工作本身。这件事让人觉得无聊、困难或混乱，于是大脑就去找一个快速的出口。回条消息、点开视频、收拾一下桌面，都能带来一阵短暂的放松。但这种放松只是停顿一下，任务在脑子里只会越来越沉重。",
+        "心理学家把这种情况描述成大脑两个部分的较量。一个部分关心未来，想赶紧把报告写完；另一个部分活在当下，想要立刻的舒适。通常后者会赢，因为奖励来得即时，而完成任务的回报却显得遥远而模糊。这也就是为什么一件十分钟的杂事能在清单上躺好几个星期，为什么我们会突然变成\"找小事做\"的专家。",
+        "好消息是，你不需要更多意志力，你需要的是更小的第一步。别承诺\"把论文写完\"，只承诺\"打开文档，写一句很烂的话\"。任务从吓人缩小到无聊，而无聊是容易开始的。很多人也发现，短计时器很管用：先干十分钟，想停就停。一旦开了头，大脑就不再把这个任务当威胁，继续下去就变得自然了。",
+        "所以下次你发现自己又在逃避时，别责怪自己。注意到那种感觉，给它命个名，然后采取最小的可行行动。把手机扣过来，关掉多余的标签页，在\"感觉准备好了\"之前就开始。目标不是先有动力，而是先行动，让动力随后而来。"
+      ],
+      "audioFull": "audio/2026-09-09_影子跟读003_我们为什么爱拖延_full.mp3",
+      "segments": [
+        {
+          "audio": "audio/2026-09-09_影子跟读003_我们为什么爱拖延_p1.mp3"
+        },
+        {
+          "audio": "audio/2026-09-09_影子跟读003_我们为什么爱拖延_p2.mp3"
+        },
+        {
+          "audio": "audio/2026-09-09_影子跟读003_我们为什么爱拖延_p3.mp3"
+        },
+        {
+          "audio": "audio/2026-09-09_影子跟读003_我们为什么爱拖延_p4.mp3"
+        }
+      ],
+      "vocabCount": 22
+    },
+    {
       "id": "2026-09-08_002",
       "num": "002",
       "date": "2026-09-08",
