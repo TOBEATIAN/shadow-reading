@@ -1,6 +1,240 @@
 {
   "materials": [
     {
+      "id": "2026-09-10_004",
+      "num": "004",
+      "date": "2026-09-10",
+      "titleEn": "The Myth of Multitasking",
+      "titleCn": "\"多任务\"其实是个错觉",
+      "stem": "2026-09-10_影子跟读004_多任务其实是个错觉",
+      "wordCountLabel": "283 词",
+      "durationLabel": "1 分 44 秒",
+      "difficulty": "六级中上",
+      "paragraphs": [
+        "Most of us take pride in our ability to do several things at once. We answer a message while listening to a lecture, check the news while cooking, and believe we are saving time. But research tells a less comfortable story. What we call multitasking is usually rapid <strong>switching</strong>, and every switch costs something: <strong>attention</strong>, time, and <strong>accuracy</strong>. The brain is not built to run two <strong>demanding</strong> tasks in <strong>parallel</strong>; it can only jump between them.",
+        "The cost is easy to <strong>underestimate</strong>. After a <strong>distraction</strong>, people often need several minutes to return to deep <strong>concentration</strong>. Even a quick glance at a <strong>notification</strong> can leave part of your mind still thinking about it. Over a day, these small <strong>interruptions</strong> add up, and the result is a strange <strong>mixture</strong>: you feel busy all the time, yet finish less than you planned.",
+        "Multitasking feels <strong>productive</strong> for another reason: it reduces <strong>boredom</strong>. Answering messages gives the brain a small <strong>reward</strong>, which is why it is so hard to <strong>resist</strong>. But the same reward can train you to <strong>avoid</strong> difficult work. If you want to concentrate, make the easy options harder to reach: put the phone in another room, close unnecessary <strong>tabs</strong>, and decide in advance when you will check your messages.",
+        "This does not mean you must work in perfect silence. Some <strong>routine</strong> tasks pair well, like walking while listening to a podcast, because one task does not <strong>compete</strong> for the same mental <strong>resources</strong>. The real question is whether the tasks are fighting for your attention. When they are, choose one, give it your full mind, and finish it. The ability to focus on a single thing may be the most <strong>valuable</strong> skill of our <strong>distracted</strong> age."
+      ],
+      "vocabNote": "练习前先不看释义，数一数标粗的单词里你真正认识几个（共 22 个）：\n- 认识 18～22 个：难度偏易，下次可以要求\"再难一档\"；\n- 认识 12～17 个：正合适（约 85%～90%）；\n- 认识少于 12 个：偏难，告诉我，我把下一篇降一档。",
+      "vocabRows": [
+        [
+          "switch",
+          "动词/名词",
+          "切换、转换"
+        ],
+        [
+          "accuracy",
+          "名词",
+          "准确性"
+        ],
+        [
+          "attention",
+          "名词",
+          "注意力"
+        ],
+        [
+          "demanding",
+          "形容词",
+          "费神的、要求高的"
+        ],
+        [
+          "parallel",
+          "形容词/名词",
+          "并行的；并行"
+        ],
+        [
+          "underestimate",
+          "动词",
+          "低估"
+        ],
+        [
+          "distraction",
+          "名词",
+          "干扰、让人分心的事物"
+        ],
+        [
+          "concentration",
+          "名词",
+          "专注（力）"
+        ],
+        [
+          "notification",
+          "名词",
+          "通知、提示"
+        ],
+        [
+          "interruption",
+          "名词",
+          "打断、中断"
+        ],
+        [
+          "mixture",
+          "名词",
+          "混合（体）"
+        ],
+        [
+          "productive",
+          "形容词",
+          "高效的、多产的"
+        ],
+        [
+          "boredom",
+          "名词",
+          "无聊、厌倦"
+        ],
+        [
+          "reward",
+          "名词",
+          "奖励、回报"
+        ],
+        [
+          "resist",
+          "动词",
+          "抵抗、忍住"
+        ],
+        [
+          "avoid",
+          "动词",
+          "避免、躲避"
+        ],
+        [
+          "tab",
+          "名词",
+          "（浏览器）标签页"
+        ],
+        [
+          "routine",
+          "形容词/名词",
+          "例行的；常规"
+        ],
+        [
+          "compete",
+          "动词",
+          "竞争、争夺"
+        ],
+        [
+          "resource",
+          "名词",
+          "资源"
+        ],
+        [
+          "valuable",
+          "形容词",
+          "宝贵的、有价值的"
+        ],
+        [
+          "distracted",
+          "形容词",
+          "分心的、注意力被带走的"
+        ]
+      ],
+      "phraseRows": [
+        [
+          "do several things at once",
+          "同时做几件事",
+          "...our ability to do several things at once."
+        ],
+        [
+          "rapid switching",
+          "快速切换",
+          "...is usually rapid switching..."
+        ],
+        [
+          "run two demanding tasks in parallel",
+          "同时并行处理两个费神的任务",
+          "The brain is not built to run two demanding tasks in parallel..."
+        ],
+        [
+          "jump between them",
+          "在两者之间来回跳",
+          "...it can only jump between them."
+        ],
+        [
+          "be easy to underestimate",
+          "容易被低估",
+          "The cost is easy to underestimate."
+        ],
+        [
+          "return to deep concentration",
+          "回到深度专注",
+          "...need several minutes to return to deep concentration."
+        ],
+        [
+          "a quick glance at a notification",
+          "扫一眼通知",
+          "Even a quick glance at a notification..."
+        ],
+        [
+          "add up",
+          "累积起来",
+          "...these small interruptions add up..."
+        ],
+        [
+          "feel busy all the time",
+          "一直觉得自己很忙",
+          "...you feel busy all the time..."
+        ],
+        [
+          "reduce boredom",
+          "减少无聊感",
+          "...it reduces boredom."
+        ],
+        [
+          "give the brain a small reward",
+          "给大脑一点小奖励",
+          "Answering messages gives the brain a small reward..."
+        ],
+        [
+          "train you to avoid difficult work",
+          "训练你逃避困难的工作",
+          "...can train you to avoid difficult work."
+        ],
+        [
+          "make the easy options harder to reach",
+          "让容易的选项更难够到",
+          "...make the easy options harder to reach..."
+        ],
+        [
+          "decide in advance",
+          "提前决定",
+          "...decide in advance when you will check your messages."
+        ],
+        [
+          "compete for the same mental resources",
+          "争夺同样的脑力资源",
+          "...does not compete for the same mental resources."
+        ],
+        [
+          "the most valuable skill of our distracted age",
+          "这个分心时代最宝贵的能力",
+          "...may be the most valuable skill of our distracted age."
+        ]
+      ],
+      "translation": [
+        "我们大多数人都以能同时做几件事为傲。一边听讲座一边回消息，一边做饭一边刷新闻，还觉得自己在节省时间。但研究给出的答案没那么舒服：我们口中的\"多任务\"，通常只是快速的来回切换，而每一次切换都有代价——注意力、时间和准确性。大脑并不是为了同时运行两个费神的任务而设计的，它只能在这两者之间来回跳。",
+        "这种代价很容易被低估。被打断之后，人们往往需要好几分钟才能回到深度专注的状态。哪怕只是扫了一眼通知，脑子也会有一部分仍在想着它。一天下来，这些小小的打断不断累积，结果就是一种奇怪的状态：你一直觉得自己很忙，完成的却比计划少。",
+        "多任务让人感觉高效，还有一个原因：它能减少无聊感。回消息会给大脑一点小奖励，这也是它难以抗拒的原因。但同样的奖励会训练你逃避困难的工作。如果你真想专注，就把容易的选项变得更难够到：把手机放到另一个房间，关掉多余的标签页，提前决定什么时候去看消息。",
+        "这不意味着你必须在一片安静中工作。有些常规任务搭配得很好，比如边走边听播客，因为它们不争夺同样的脑力资源。真正的问题是：这些任务是不是在抢你的注意力。如果是，就选一件，把整颗心都给它，做完它。在这个容易分心的时代，专注做一件事的能力，也许才是最宝贵的能力。"
+      ],
+      "audioFull": "audio/2026-09-10_影子跟读004_多任务其实是个错觉_full.mp3",
+      "segments": [
+        {
+          "audio": "audio/2026-09-10_影子跟读004_多任务其实是个错觉_p1.mp3"
+        },
+        {
+          "audio": "audio/2026-09-10_影子跟读004_多任务其实是个错觉_p2.mp3"
+        },
+        {
+          "audio": "audio/2026-09-10_影子跟读004_多任务其实是个错觉_p3.mp3"
+        },
+        {
+          "audio": "audio/2026-09-10_影子跟读004_多任务其实是个错觉_p4.mp3"
+        }
+      ],
+      "vocabCount": 22
+    },
+    {
       "id": "2026-09-09_003",
       "num": "003",
       "date": "2026-09-09",
