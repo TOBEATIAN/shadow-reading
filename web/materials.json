@@ -1,6 +1,240 @@
 {
   "materials": [
     {
+      "id": "2026-09-11_005",
+      "num": "005",
+      "date": "2026-09-11",
+      "titleEn": "The Power of Small Talk",
+      "titleCn": "闲聊不是浪费时间",
+      "stem": "2026-09-11_影子跟读005_闲聊不是浪费时间",
+      "wordCountLabel": "260 词",
+      "durationLabel": "1 分 38 秒",
+      "difficulty": "六级中上",
+      "paragraphs": [
+        "Many people say they hate small talk. Talking about the weather or the traffic feels <strong>pointless</strong>, especially when you could be doing something useful. But researchers who study <strong>conversation</strong> see it differently. Small talk is not really about information; it is about <strong>connection</strong>. It sends a simple <strong>signal</strong>: I notice you, and I am <strong>willing</strong> to spend a moment with you.",
+        "This signal matters more than it seems. In a study of office workers, a short friendly chat before a meeting made people <strong>cooperate</strong> better and solve problems faster. In another study, students who spoke to their teacher before class felt more comfortable asking questions later. Even a <strong>brief</strong> <strong>exchange</strong> with a <strong>stranger</strong> can lift your <strong>mood</strong>, because the brain treats being <strong>acknowledged</strong> as a small social <strong>reward</strong>.",
+        "Small talk also opens doors that silence cannot. A <strong>casual</strong> comment in a lift can turn into a job <strong>offer</strong>; a question about a <strong>neighbor</strong>'s garden can grow into a <strong>friendship</strong>. These outcomes are impossible to <strong>predict</strong>, which is exactly why they matter. Strong relationships rarely begin with deep discussions. They begin with tiny, low-risk moments that slowly build <strong>trust</strong>.",
+        "Of course, small talk can feel <strong>awkward</strong> at first, and no one enjoys <strong>forced</strong> conversation. The trick is to keep it light and <strong>genuine</strong>. Ask an easy question, listen to the answer, and share a small piece of yourself. You do not need a clever opening line. You just need to show that you are paying <strong>attention</strong>. A few ordinary words can turn a stranger into someone you know."
+      ],
+      "vocabNote": "练习前先不看释义，数一数标粗的单词里你真正认识几个（共 22 个）：\n- 认识 18～22 个：难度偏易，下次可以要求\"再难一档\"；\n- 认识 12～17 个：正合适（约 85%～90%）；\n- 认识少于 12 个：偏难，告诉我，我把下一篇降一档。",
+      "vocabRows": [
+        [
+          "pointless",
+          "形容词",
+          "无意义的、没必要的"
+        ],
+        [
+          "conversation",
+          "名词",
+          "交谈、对话"
+        ],
+        [
+          "connection",
+          "名词",
+          "连接、联系（人与人之间）"
+        ],
+        [
+          "signal",
+          "名词",
+          "信号"
+        ],
+        [
+          "willing",
+          "形容词",
+          "愿意的"
+        ],
+        [
+          "cooperate",
+          "动词",
+          "合作、配合"
+        ],
+        [
+          "brief",
+          "形容词",
+          "简短的"
+        ],
+        [
+          "exchange",
+          "名词",
+          "交流、交换"
+        ],
+        [
+          "stranger",
+          "名词",
+          "陌生人"
+        ],
+        [
+          "mood",
+          "名词",
+          "心情、情绪"
+        ],
+        [
+          "acknowledged",
+          "形容词",
+          "被注意到的、被认可的"
+        ],
+        [
+          "reward",
+          "名词",
+          "奖励、回报"
+        ],
+        [
+          "casual",
+          "形容词",
+          "随意的、不经意的"
+        ],
+        [
+          "offer",
+          "名词",
+          "提议、录用通知"
+        ],
+        [
+          "neighbor",
+          "名词",
+          "邻居"
+        ],
+        [
+          "friendship",
+          "名词",
+          "友谊"
+        ],
+        [
+          "predict",
+          "动词",
+          "预测"
+        ],
+        [
+          "trust",
+          "名词",
+          "信任"
+        ],
+        [
+          "awkward",
+          "形容词",
+          "尴尬的"
+        ],
+        [
+          "forced",
+          "形容词",
+          "勉强的、被迫的"
+        ],
+        [
+          "genuine",
+          "形容词",
+          "真诚的"
+        ],
+        [
+          "attention",
+          "名词",
+          "注意力、关注"
+        ]
+      ],
+      "phraseRows": [
+        [
+          "hate small talk",
+          "讨厌闲聊",
+          "Many people say they hate small talk."
+        ],
+        [
+          "talk about the weather or the traffic",
+          "聊天气、聊路况",
+          "Talking about the weather or the traffic..."
+        ],
+        [
+          "send a simple signal",
+          "发出一个简单的信号",
+          "It sends a simple signal..."
+        ],
+        [
+          "be willing to do something",
+          "愿意做某事",
+          "...I am willing to spend a moment with you."
+        ],
+        [
+          "cooperate better",
+          "配合得更好",
+          "...made people cooperate better..."
+        ],
+        [
+          "a brief exchange with a stranger",
+          "和陌生人的简短交流",
+          "Even a brief exchange with a stranger can lift your mood..."
+        ],
+        [
+          "lift your mood",
+          "让心情变好",
+          "...can lift your mood..."
+        ],
+        [
+          "treat being acknowledged as a reward",
+          "把\"被注意到\"当成一种奖励",
+          "...the brain treats being acknowledged as a small social reward."
+        ],
+        [
+          "open doors that silence cannot",
+          "打开沉默打不开的门",
+          "Small talk also opens doors that silence cannot."
+        ],
+        [
+          "a casual comment",
+          "随口的一句话",
+          "A casual comment in a lift..."
+        ],
+        [
+          "turn into a job offer",
+          "变成一份工作机会",
+          "...can turn into a job offer..."
+        ],
+        [
+          "grow into a friendship",
+          "慢慢发展成友谊",
+          "...can grow into a friendship."
+        ],
+        [
+          "build trust",
+          "建立信任",
+          "...moments that slowly build trust."
+        ],
+        [
+          "keep it light and genuine",
+          "保持轻松、真诚",
+          "The trick is to keep it light and genuine."
+        ],
+        [
+          "force a conversation",
+          "勉强进行交谈",
+          "...no one enjoys forced conversation."
+        ],
+        [
+          "pay attention",
+          "给予关注、留意",
+          "...show that you are paying attention."
+        ]
+      ],
+      "translation": [
+        "很多人都说自己讨厌闲聊。聊天气、聊路况，听起来毫无意义，尤其是在你本可以做点正事的时候。但研究对话的学者不这么看：闲聊真正交换的不是信息，而是连接。它发出一个简单的信号——我看到你了，我愿意花一点时间和你待在一起。",
+        "这个信号的重要性超乎想象。一项针对职场人的研究发现，开会前短短寒暄几句，会让人配合得更好、更快解决问题。另一项研究里，课前和老师聊过天的学生，之后提问时更放松。哪怕只是和陌生人简短交流几句，也能让你的心情变好，因为大脑会把\"被注意到\"当成一种小小的社交奖励。",
+        "闲聊还能打开沉默打不开的门。电梯里随口的一句话，可能变成一份工作机会；一句关于邻居花园的问候，可能慢慢长成一段友谊。这些结果无法预测，而这恰恰是它们的价值所在。牢固的关系很少始于深刻的讨论，而是始于一个个微小、低风险的瞬间，信任就这样一点点建立起来。",
+        "当然，闲聊一开始可能让人尴尬，也没人喜欢被迫交谈。诀窍是让它保持轻松和真诚：问一个简单的问题，认真听对方回答，再分享一点关于你自己的事。你不需要一句聪明的开场白，只需要让对方看出来你在认真关注他。几句普通的话，就能让一个陌生人变成你认识的人。"
+      ],
+      "audioFull": "audio/2026-09-11_影子跟读005_闲聊不是浪费时间_full.mp3",
+      "segments": [
+        {
+          "audio": "audio/2026-09-11_影子跟读005_闲聊不是浪费时间_p1.mp3"
+        },
+        {
+          "audio": "audio/2026-09-11_影子跟读005_闲聊不是浪费时间_p2.mp3"
+        },
+        {
+          "audio": "audio/2026-09-11_影子跟读005_闲聊不是浪费时间_p3.mp3"
+        },
+        {
+          "audio": "audio/2026-09-11_影子跟读005_闲聊不是浪费时间_p4.mp3"
+        }
+      ],
+      "vocabCount": 22
+    },
+    {
       "id": "2026-09-10_004",
       "num": "004",
       "date": "2026-09-10",
