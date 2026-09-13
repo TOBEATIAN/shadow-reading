@@ -1,6 +1,240 @@
 {
   "materials": [
     {
+      "id": "2026-09-13_007",
+      "num": "007",
+      "date": "2026-09-13",
+      "titleEn": "Why We Compare Ourselves Online",
+      "titleCn": "为什么我们总在网上比较",
+      "stem": "2026-09-13_影子跟读007_为什么我们总在网上比较",
+      "wordCountLabel": "254 词",
+      "durationLabel": "1 分 36 秒",
+      "difficulty": "六级中上",
+      "paragraphs": [
+        "Open any social app and you will see a <strong>parade</strong> of perfect lives: new jobs, sunny holidays, home-cooked meals, and carefully chosen smiles. It is hard not to <strong>compare</strong>. Why does a stranger's good news make us feel <strong>uneasy</strong>, when we know that everyone posts only their best moments?",
+        "Psychologists explain this with a simple idea: we suffer more from <strong>upward</strong> comparison than from any real shortage. A <strong>highlight</strong> reel is not a life; it is a <strong>filtered</strong> collection chosen for an <strong>audience</strong>. What stays <strong>invisible</strong> is the boring middle: the failed interviews, the ordinary Tuesdays, the <strong>pressure</strong> behind the smile. Nobody films the hours of practice, the rejected applications, or the quiet evenings when nothing happens.",
+        "Constant <strong>scrolling</strong> makes it worse because it feeds <strong>envy</strong> in small doses. Each quick look gives the brain a tiny reward, and each comparison leaves you slightly more <strong>insecure</strong>. Over time, you may start to believe that your own life is a series of <strong>failures</strong>, even when your <strong>achievements</strong> are simply less photogenic. The problem is not the feeling itself; it is comparing your ordinary day with an edited highlight.",
+        "The way out is not to quit the internet or to pretend that everything is fine. It is to make comparison <strong>honest</strong> and <strong>genuine</strong> again. Ask what you actually want, <strong>celebrate</strong> a friend's success out loud, and <strong>remind</strong> yourself that a <strong>jealous</strong> feeling usually points to a wish, not a fact. Follow people who make you curious rather than <strong>restless</strong>; keep the <strong>admiration</strong>, drop the <strong>trap</strong>."
+      ],
+      "vocabNote": "练习前先不看释义，数一数标粗的单词里你真正认识几个（共 22 个）：\n- 认识 18～22 个：难度偏易，下次可以要求\"再难一档\"；\n- 认识 12～17 个：正合适（约 85%～90%）；\n- 认识少于 12 个：偏难，告诉我，我把下一篇降一档。",
+      "vocabRows": [
+        [
+          "parade",
+          "名词",
+          "一连串、队列（此处指刷屏的展示）"
+        ],
+        [
+          "compare",
+          "动词",
+          "比较"
+        ],
+        [
+          "uneasy",
+          "形容词",
+          "不安的、心里不舒服的"
+        ],
+        [
+          "upward",
+          "形容词",
+          "向上的（upward comparison 向上比较）"
+        ],
+        [
+          "highlight",
+          "名词",
+          "亮点、精彩片段"
+        ],
+        [
+          "filtered",
+          "形容词",
+          "被修饰过的、经过筛选的"
+        ],
+        [
+          "audience",
+          "名词",
+          "观众、受众"
+        ],
+        [
+          "invisible",
+          "形容词",
+          "看不见的"
+        ],
+        [
+          "pressure",
+          "名词",
+          "压力"
+        ],
+        [
+          "scrolling",
+          "名词",
+          "刷屏、滑动浏览"
+        ],
+        [
+          "envy",
+          "名词",
+          "嫉妒、羡慕"
+        ],
+        [
+          "insecure",
+          "形容词",
+          "缺乏安全感的、不自信的"
+        ],
+        [
+          "failure",
+          "名词",
+          "失败"
+        ],
+        [
+          "achievement",
+          "名词",
+          "成就"
+        ],
+        [
+          "honest",
+          "形容词",
+          "诚实的"
+        ],
+        [
+          "genuine",
+          "形容词",
+          "真诚的、真实的"
+        ],
+        [
+          "celebrate",
+          "动词",
+          "庆祝、为……高兴"
+        ],
+        [
+          "remind",
+          "动词",
+          "提醒"
+        ],
+        [
+          "jealous",
+          "形容词",
+          "嫉妒的"
+        ],
+        [
+          "restless",
+          "形容词",
+          "坐立不安的、焦躁的"
+        ],
+        [
+          "admiration",
+          "名词",
+          "欣赏、钦佩"
+        ],
+        [
+          "trap",
+          "名词",
+          "陷阱"
+        ]
+      ],
+      "phraseRows": [
+        [
+          "a parade of perfect lives",
+          "一连串完美生活的展示",
+          "...you will see a parade of perfect lives..."
+        ],
+        [
+          "it is hard not to compare",
+          "很难不去比较",
+          "It is hard not to compare."
+        ],
+        [
+          "make us feel uneasy",
+          "让我们心里不舒服",
+          "Why does a stranger's good news make us feel uneasy..."
+        ],
+        [
+          "suffer more from A than from B",
+          "更多是受 A 之苦，而不是 B",
+          "...we suffer more from upward comparison than from any real shortage."
+        ],
+        [
+          "a highlight reel",
+          "精彩片段集锦",
+          "A highlight reel is not a life..."
+        ],
+        [
+          "be chosen for an audience",
+          "为观众挑选出来的",
+          "...a filtered collection chosen for an audience."
+        ],
+        [
+          "the boring middle",
+          "无聊的中间地带",
+          "What stays invisible is the boring middle..."
+        ],
+        [
+          "the pressure behind the smile",
+          "微笑背后的压力",
+          "...the pressure behind the smile."
+        ],
+        [
+          "feed envy in small doses",
+          "一点点喂养嫉妒",
+          "...it feeds envy in small doses."
+        ],
+        [
+          "give the brain a tiny reward",
+          "给大脑一点小奖励",
+          "Each quick look gives the brain a tiny reward..."
+        ],
+        [
+          "a series of failures",
+          "一连串失败",
+          "...your own life is a series of failures..."
+        ],
+        [
+          "less photogenic",
+          "不够上镜",
+          "...your achievements are simply less photogenic."
+        ],
+        [
+          "make comparison honest again",
+          "让比较重新变诚实",
+          "It is to make comparison honest and genuine again."
+        ],
+        [
+          "point to a wish, not a fact",
+          "指向一个愿望，而不是一个事实",
+          "...a jealous feeling usually points to a wish, not a fact."
+        ],
+        [
+          "follow people who make you curious",
+          "关注让你好奇的人",
+          "Follow people who make you curious rather than restless..."
+        ],
+        [
+          "keep the admiration, drop the trap",
+          "留下欣赏，丢掉陷阱",
+          "...keep the admiration, drop the trap."
+        ]
+      ],
+      "translation": [
+        "打开任何一个社交应用，你都会看到一连串完美生活：新工作、阳光假期、自制美食，还有精心挑选的笑容。你很难不去比较。一个陌生人的好消息，为什么会让我们心里不舒服？明明我们知道，大家只发自己最好的那些时刻。",
+        "心理学家用一个简单的道理来解释：我们更多是受\"向上比较\"之苦，而不是真的缺什么。精彩集锦不是生活，它只是为观众挑选出来的、被修饰过的一小部分。看不见的是那些无聊的中间地带：失败的面试、平平无奇的星期二、笑容背后的压力。",
+        "不停地刷屏会让情况更糟，因为它一点点喂养着嫉妒。每看一眼都会给大脑一点小奖励，而每一次比较都会让你更不自信一些。时间久了，你可能会开始相信自己的生活就是一串失败，哪怕你的成就只是没那么上镜而已。",
+        "出路不是戒掉互联网，也不是假装一切都很好，而是让比较重新变得诚实、真实。问问自己真正想要什么，大声地为朋友的成功高兴，并提醒自己：嫉妒的感觉通常指向一个愿望，而不是一个事实。关注那些让你好奇而不是让你焦躁的人；留下欣赏，丢掉陷阱。"
+      ],
+      "audioFull": "audio/2026-09-13_影子跟读007_为什么我们总在网上比较_full.mp3",
+      "segments": [
+        {
+          "audio": "audio/2026-09-13_影子跟读007_为什么我们总在网上比较_p1.mp3"
+        },
+        {
+          "audio": "audio/2026-09-13_影子跟读007_为什么我们总在网上比较_p2.mp3"
+        },
+        {
+          "audio": "audio/2026-09-13_影子跟读007_为什么我们总在网上比较_p3.mp3"
+        },
+        {
+          "audio": "audio/2026-09-13_影子跟读007_为什么我们总在网上比较_p4.mp3"
+        }
+      ],
+      "vocabCount": 22
+    },
+    {
       "id": "2026-09-13_006",
       "num": "006",
       "date": "2026-09-13",
