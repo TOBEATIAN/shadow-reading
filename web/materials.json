@@ -1,6 +1,240 @@
 {
   "materials": [
     {
+      "id": "2026-09-13_006",
+      "num": "006",
+      "date": "2026-09-13",
+      "titleEn": "Sleep Is Not a Waste of Time",
+      "titleCn": "睡觉不是浪费时间",
+      "stem": "2026-09-13_影子跟读006_睡觉不是浪费时间",
+      "wordCountLabel": "255 词",
+      "durationLabel": "1 分 34 秒",
+      "difficulty": "六级中上",
+      "paragraphs": [
+        "Many students treat sleep as an enemy. When a <strong>deadline</strong> is close, the first thing they <strong>sacrifice</strong> is the night, as if staying awake longer were the same as working harder. It feels <strong>heroic</strong>, and for a while it works. But the brain does not run on <strong>willpower</strong> alone; it needs <strong>rest</strong> to do some of its most important work.",
+        "During deep sleep, the brain sorts through what you learned during the day. <strong>Memories</strong> are replayed, <strong>strengthened</strong>, and connected with what you already know. Researchers call this <strong>consolidation</strong>. Skip the sleep, and those memories stay <strong>fragile</strong>: you can <strong>recognise</strong> a fact in your notes, yet fail to <strong>recall</strong> it in an exam. Sleep is not the opposite of studying; it is part of it.",
+        "Sleep also <strong>repairs</strong> the body and calms the mind. A tired person is more likely to feel <strong>anxious</strong>, to <strong>misread</strong> a friendly message, and to reach for sugary snacks. Studies even link poor sleep with a weaker <strong>immune</strong> system. In other words, cutting sleep does not just cost you attention; it slowly damages your mood, your health, and your <strong>patience</strong>.",
+        "The fix is simpler than most people expect. Keep a <strong>regular</strong> <strong>bedtime</strong>, put the phone away thirty minutes before bed, and let <strong>caffeine</strong> end in the early afternoon. <strong>Aim</strong> for seven to eight hours, not the minimum that keeps you awake. One late night is not a <strong>disaster</strong>. A habit of late nights is. Treat sleep as part of your study plan, and both your <strong>grades</strong> and your mood will follow."
+      ],
+      "vocabNote": "练习前先不看释义，数一数标粗的单词里你真正认识几个（共 22 个）：\n- 认识 18～22 个：难度偏易，下次可以要求\"再难一档\"；\n- 认识 12～17 个：正合适（约 85%～90%）；\n- 认识少于 12 个：偏难，告诉我，我把下一篇降一档。",
+      "vocabRows": [
+        [
+          "deadline",
+          "名词",
+          "截止日期"
+        ],
+        [
+          "sacrifice",
+          "动词/名词",
+          "牺牲"
+        ],
+        [
+          "heroic",
+          "形容词",
+          "英勇的、了不起的"
+        ],
+        [
+          "willpower",
+          "名词",
+          "意志力"
+        ],
+        [
+          "rest",
+          "名词",
+          "休息"
+        ],
+        [
+          "memory",
+          "名词",
+          "记忆"
+        ],
+        [
+          "strengthen",
+          "动词",
+          "加强、巩固"
+        ],
+        [
+          "consolidation",
+          "名词",
+          "巩固、（记忆）整合"
+        ],
+        [
+          "fragile",
+          "形容词",
+          "脆弱的"
+        ],
+        [
+          "recognise",
+          "动词",
+          "认出、认得（= recognize）"
+        ],
+        [
+          "recall",
+          "动词",
+          "回想、回忆"
+        ],
+        [
+          "repair",
+          "动词",
+          "修复"
+        ],
+        [
+          "anxious",
+          "形容词",
+          "焦虑的"
+        ],
+        [
+          "misread",
+          "动词",
+          "误读、看错"
+        ],
+        [
+          "immune",
+          "形容词",
+          "免疫的"
+        ],
+        [
+          "patience",
+          "名词",
+          "耐心"
+        ],
+        [
+          "regular",
+          "形容词",
+          "规律的"
+        ],
+        [
+          "bedtime",
+          "名词",
+          "就寝时间"
+        ],
+        [
+          "caffeine",
+          "名词",
+          "咖啡因"
+        ],
+        [
+          "aim",
+          "动词/名词",
+          "目标是；目标"
+        ],
+        [
+          "disaster",
+          "名词",
+          "灾难、糟糕的事"
+        ],
+        [
+          "grade",
+          "名词",
+          "成绩、分数"
+        ]
+      ],
+      "phraseRows": [
+        [
+          "treat sleep as an enemy",
+          "把睡眠当成敌人",
+          "Many students treat sleep as an enemy."
+        ],
+        [
+          "when a deadline is close",
+          "临近截止日期时",
+          "When a deadline is close..."
+        ],
+        [
+          "the first thing they sacrifice",
+          "他们第一件牺牲的事",
+          "...the first thing they sacrifice is the night..."
+        ],
+        [
+          "stay awake longer",
+          "熬得更久、保持清醒更久",
+          "...as if staying awake longer were the same as working harder."
+        ],
+        [
+          "run on willpower alone",
+          "只靠意志力运转",
+          "But the brain does not run on willpower alone..."
+        ],
+        [
+          "sort through what you learned",
+          "整理你学到的东西",
+          "...the brain sorts through what you learned during the day."
+        ],
+        [
+          "strengthen memories",
+          "巩固记忆",
+          "Memories are replayed, strengthened..."
+        ],
+        [
+          "fail to recall it in an exam",
+          "考试时想不起来",
+          "...yet fail to recall it in an exam."
+        ],
+        [
+          "the opposite of studying",
+          "学习的对立面",
+          "Sleep is not the opposite of studying..."
+        ],
+        [
+          "calm the mind",
+          "让大脑平静下来",
+          "Sleep also repairs the body and calms the mind."
+        ],
+        [
+          "be more likely to do something",
+          "更容易做某事",
+          "A tired person is more likely to feel anxious..."
+        ],
+        [
+          "reach for sugary snacks",
+          "伸手去拿甜食",
+          "...and to reach for sugary snacks."
+        ],
+        [
+          "link A with B",
+          "把 A 与 B 联系起来",
+          "Studies even link poor sleep with a weaker immune system."
+        ],
+        [
+          "cut sleep",
+          "削减睡眠",
+          "...cutting sleep does not just cost you attention..."
+        ],
+        [
+          "keep a regular bedtime",
+          "保持规律的就寝时间",
+          "Keep a regular bedtime..."
+        ],
+        [
+          "aim for seven to eight hours",
+          "目标睡够七到八小时",
+          "Aim for seven to eight hours..."
+        ]
+      ],
+      "translation": [
+        "很多学生把睡眠当成敌人。临近截止日期，第一件被牺牲的就是睡眠，好像熬得更久就等于更努力。这样做听起来很英勇，短期内也确实有效。但大脑不是只靠意志力运转的，它需要休息才能完成一些最重要的工作。",
+        "在深度睡眠中，大脑会整理你白天学到的东西：记忆被重放、被强化，并与你已经知道的内容连接起来。研究者把这一过程称为\"巩固\"。如果跳过睡眠，这些记忆就会很脆弱——你能在笔记里认出某个知识点，考试时却想不起来。睡眠不是学习的对立面，它本身就是学习的一部分。",
+        "睡眠还会修复身体、让大脑平静下来。疲惫的人更容易焦虑、更容易误读一条友好的消息，也更容易伸手去拿甜食。研究甚至把睡眠不足和更弱的免疫系统联系起来。换句话说，削减睡眠不只消耗你的注意力，还会慢慢损害你的情绪、健康和耐心。",
+        "解决方法比大多数人想的简单：保持规律的就寝时间，睡前三十分钟把手机放远，咖啡因在下午早些时候就不再摄入。目标是睡够七到八小时，而不是维持\"不困\"的最低限度。熬一个晚上不是灾难，养成天天熬夜的习惯才是。把睡眠当成学习计划的一部分，你的成绩和心情都会跟着变好。"
+      ],
+      "audioFull": "audio/2026-09-13_影子跟读006_睡觉不是浪费时间_full.mp3",
+      "segments": [
+        {
+          "audio": "audio/2026-09-13_影子跟读006_睡觉不是浪费时间_p1.mp3"
+        },
+        {
+          "audio": "audio/2026-09-13_影子跟读006_睡觉不是浪费时间_p2.mp3"
+        },
+        {
+          "audio": "audio/2026-09-13_影子跟读006_睡觉不是浪费时间_p3.mp3"
+        },
+        {
+          "audio": "audio/2026-09-13_影子跟读006_睡觉不是浪费时间_p4.mp3"
+        }
+      ],
+      "vocabCount": 22
+    },
+    {
       "id": "2026-09-11_005",
       "num": "005",
       "date": "2026-09-11",
